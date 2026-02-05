@@ -1,7 +1,7 @@
 import { useAuth } from '../context/AuthContext';
-import PatientDashboard from './dashboards/PatientDashboard';
-import HospitalDashboard from './dashboards/HospitalDashboard';
-import BloodBankDashboard from './dashboards/BloodBankDashboard';
+import PatientDashboard from '../dashboards/PatientDashboard';
+import HospitalDashboard from '../dashboards/HospitalDashboard';
+import BloodBankDashboard from '../dashboards/BloodBankDashboard';
 
 const Dashboard = () => {
     const { user } = useAuth();
