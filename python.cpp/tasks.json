@@ -1,0 +1,14 @@
+[
+    {
+        "task": "finish internship task",
+        "priority": "Medium",
+        "deadline": "2026-05-20",
+        "completed": true
+    },
+    {
+        "task": "completed task",
+        "priority": "Medium",
+        "deadline": "2026-02-12",
+        "completed": true
+    }
+]
